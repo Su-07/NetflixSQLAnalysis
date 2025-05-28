@@ -74,3 +74,5 @@ The dataset (simulated via SQL table) includes the following fields:
 - 🗓️ Reveals **release trends** for better planning of new launches
 
 ---
+
+⭐ If this project helped you learn or was insightful, consider giving it a **star**!
